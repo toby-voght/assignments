@@ -1,0 +1,169 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         7 characters
+	Most common values:    C001037 (23x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         23 characters
+	Most common values:    HON. MICHAEL E. CAPUANO (23x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (23x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (23x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         30 characters
+	Most common values:    PERSONNEL COMPENSATION (16x)
+	                       RENT  COMMUNICATION  UTILITIES (4x)
+	                       OTHER SERVICES (3x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  True (excluded from calculations)
+	Unique values:         5
+	Smallest value:        2017-01-16
+	Largest value:         2017-03-16
+	Most common values:    None (16x)
+	                       2017-01-16 (2x)
+	                       2017-02-16 (2x)
+	                       2017-03-16 (2x)
+	                       2017-02-14 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         2
+	Longest value:         2 characters
+	Most common values:    None (16x)
+	                       AP (7x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         8
+	Longest value:         8 characters
+	Most common values:    None (16x)
+	                       901474 (1x)
+	                       E0481525 (1x)
+	                       903893 (1x)
+	                       909273 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         19
+	Longest value:         38 characters
+	Most common values:    THE TRUSTEES OF CAMBRIDGESIDE (3x)
+	                       LEIDOS DIGITAL SOLUTIONS INC (3x)
+	                       AUSPITZ KATHERINE (1x)
+	                       BENNETT RAYMOND P (1x)
+	                       BOSE GIRA (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         6
+	Smallest value:        2017-01-01
+	Largest value:         2017-03-03
+	Most common values:    2017-01-03 (17x)
+	                       2017-01-01 (2x)
+	                       2017-02-03 (1x)
+	                       2017-03-03 (1x)
+	                       2017-02-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         7
+	Smallest value:        2017-01-31
+	Largest value:         2017-12-31
+	Most common values:    2017-03-31 (17x)
+	                       2017-02-02 (1x)
+	                       2017-12-31 (1x)
+	                       2017-03-02 (1x)
+	                       2017-04-02 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         14
+	Longest value:         30 characters
+	Most common values:    DISTRICT REPRESENTATIVE (3x)
+	                       PART-TIME EMPLOYEE (3x)
+	                       DISTRICT OFFICE RENT (PRIVATE) (3x)
+	                       TECHNOLOGY SERVICE CONTRACTS (3x)
+	                       LEGISLATIVE AIDE (2x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         15
+	Smallest value:        1,776
+	Largest value:         29,108.56
+	Sum:                   276,205.37
+	Mean:                  12,008.929
+	Median:                9,429.67
+	StDev:                 8,857.693
+	Most common values:    5,389.35 (3x)
+	                       3,335 (3x)
+	                       22,527.43 (2x)
+	                       17,599.6 (2x)
+	                       17,743.73 (2x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   46,391
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0
+	Most common values:    2,017 (23x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         19
+	Longest value:         38 characters
+	Most common values:    THE TRUSTEES OF CAMBRIDGESIDE (3x)
+	                       LEIDOS DIGITAL SOLUTIONS INC (3x)
+	                       AUSPITZ KATHERINE (1x)
+	                       BENNETT RAYMOND P (1x)
+	                       BOSE GIRA (1x)
+
+Row count: 23
